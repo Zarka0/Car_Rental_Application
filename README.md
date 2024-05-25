@@ -3,9 +3,17 @@ The Car Rental System is a Java application that allows users to rent and return
 
 ## Features
  **Rent a Car**: Customers can rent available cars by providing their name, selecting a car, and specifying the rental duration.
+
+
 **Return a Car**: Customers can return rented cars by providing the car ID.
+
+
 **Display Available Cars**: Users can view the list of available cars for rent.
+
+
  **Exit**: Close the application.
+
+ 
 ## **How to Run**
 Ensure you have Java installed on your system.
 Compile the CarRentalSystemGUI.java file.
